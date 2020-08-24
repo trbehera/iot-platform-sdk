@@ -11,7 +11,7 @@
   <description>SDO IoT Platform SDK</description>
   <groupId>org.sdo</groupId>
   <artifactId>iotplatformsdk</artifactId>
-  <version>1.9</version>
+  <version>1.9.1</version>
   <name>SDO IoT Platform SDK</name>
   <packaging>pom</packaging>
   <url>file:///tmp/sdo</url>
@@ -19,7 +19,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.3.2.RELEASE</version>
+    <version>2.3.5.RELEASE</version>
     <relativePath /> <!-- lookup parent from repository -->
   </parent>
 
